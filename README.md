@@ -1,1 +1,1 @@
-# Chess-Game
+# Chess-Game (2-Player)
